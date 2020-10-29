@@ -1,0 +1,138 @@
+header {
+    background-image: url(../images/hero-background-image.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+    width: 100vw;
+
+    height: 550px;
+    
+}
+
+
+
+.navbar li a {
+    color: white;
+   
+}
+.nav-link.active {
+    text-decoration: underline;
+}
+.travelCalifornia {
+    background-color: transparent;
+}
+
+section h3, section h1 {
+    text-align: center;
+}
+
+section h3 {
+    color: rgb(207, 78, 100);
+}
+section h1 {
+    color: black;
+}
+
+.card {
+    margin: 0 auto;
+}
+.adventure {
+    background-color: transparent;
+    color: white;
+ 
+}
+
+
+.card1 {
+    background-image: url(../images/Group\ 13.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+    
+
+   
+}
+.card2 {
+    background-image: url(../images/Group\ 19.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+    
+   
+   
+}
+.card3 {
+    background-image: url(../images/Group\ 27.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 350px;
+    
+
+   
+}
+.popular {
+    background-image: url(../images/Hollywood.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 650px;
+    padding-top: 25px;
+    
+}
+.destination h5 {
+    float: left;
+    width: 60%;
+
+    margin-right: 20px;
+}
+.card-body img {
+    
+}
+
+.emailContain {
+
+  background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/Group\ 30.png);
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 500px;
+    width: 100vw;
+
+}
+.sectionHeading, .emailContain p {
+    color: white;
+
+}
+form {
+    font-size: 20px; 
+    align-items: center;
+    justify-content: center;
+    color: white;
+  
+    
+}
+.form-group {
+    display: flex;
+}
+
+footer {
+    background: black;
+    
+
+}
+
+footer li a {
+    color: white;
+}
+    
+
+
