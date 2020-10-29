@@ -3,10 +3,10 @@ header {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    background-size: auto;
+ 
     width: 100vw;
 
-    height: 550px;
+    height: 600px;
     
 }
 
@@ -23,12 +23,13 @@ header {
     background-color: transparent;
 }
 
-section h3, section h1 {
+section h4, section h1 {
     text-align: center;
 }
 
-section h3 {
+section h4 {
     color: rgb(207, 78, 100);
+    margin-bottom: 0;
 }
 section h1 {
     color: black;
@@ -49,7 +50,8 @@ section h1 {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 350px;
+    height: 500px;
+ 
     
 
    
@@ -59,7 +61,7 @@ section h1 {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 350px;
+    height: 500px;
     
    
    
@@ -69,7 +71,7 @@ section h1 {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 350px;
+    height: auto;
     
 
    
@@ -79,15 +81,17 @@ section h1 {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    height: 650px;
+    width: 100vw;
+    height: 100%;
     padding-top: 25px;
+    padding-bottom: 25px;
     
 }
 .destination h5 {
     float: left;
     width: 60%;
 
-    margin-right: 20px;
+    margin-right: 10px;
 }
 .card-body img {
     
