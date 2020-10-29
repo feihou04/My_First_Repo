@@ -2,6 +2,7 @@ header {
     background-image: url(../images/hero-background-image.png);
     background-position: center;
     background-repeat: no-repeat;
+    background-size: cover;
     background-size: auto;
     width: 100vw;
 
